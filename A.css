@@ -1,12 +1,12 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
+} */
 .heading-one{
-    text-align: center;
+    /* text-align: center;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-    padding-top: 10%;
+    padding-top: 10%; */
     color: blueviolet;
 }
