@@ -1,8 +1,8 @@
 # Project Name
-Hello Microverse Project
+Hello World Project
 
 > 
-Sutup a Hello Microverse Project.
+Sutup a Hello World Project.
 
 
 ## Built With
@@ -39,7 +39,3 @@ Feel free to check the [issues page](https://github.com/yayner2002/Hello-Microve
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse
